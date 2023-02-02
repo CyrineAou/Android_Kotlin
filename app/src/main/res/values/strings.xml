@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Curriculum Vitae</string>
+    <string name="FullName">FullName</string>
+    <string name="Age">Age</string>
+    <string name="Email">Email</string>
+    <string name="Gender">Gender</string>
+    <string name="GenderHomme">Homme</string>
+    <string name="GenderFemme">Femme</string>
+    <string name="Skills">Skills</string>
+    <string name="SkillsAnd"> ANDROID</string>
+    <string name="SkillsIos">IOS</string>
+    <string name="SkillsFlu">FLUTTER</string>
+    <string name="rest">REST</string>
+    <string name="next">Next</string>
+
+
+</resources>
