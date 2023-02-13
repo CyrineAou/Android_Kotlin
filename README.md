@@ -1,2 +1,3 @@
-# Android_Kotlin
-![image](https://user-images.githubusercontent.com/99246249/218345239-4d2a7d55-974a-4910-814e-0bd78a6d3b4c.png)
+# Application Curriculum Vitae (V2)
+![image](https://user-images.githubusercontent.com/99246249/218345358-2daa09f0-df48-48c7-8d6e-b0d10ec0bfcb.png)
+
