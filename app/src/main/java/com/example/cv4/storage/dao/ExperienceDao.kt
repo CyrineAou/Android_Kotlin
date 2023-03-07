@@ -1,6 +1,8 @@
-package com.example.cv4
+package com.esprit.diceapp.storage.dao
 
+import androidx.room.Dao
 import androidx.room.*
+import com.esprit.diceapp.models.Experience
 
 @Dao
 interface ExperienceDao {
@@ -13,6 +15,6 @@ interface ExperienceDao {
     @Delete
     suspend fun delete(experience: Experience)
 
-    @Query("SELECT * FROM experience_table ORDER BY id DESC")
+    @Query("SELECT * FROM experiences")
     suspend fun getAllExperiences(): List<Experience>
 }
